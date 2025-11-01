@@ -1,4 +1,4 @@
 # Nexus
 Distributed message broker
 
-![Nexus](Nexus.png)
+![Nexus](Logotype_Nexus.png)
